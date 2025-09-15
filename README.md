@@ -286,6 +286,9 @@ After successful connection:
 - **Latest Handshake**: Updates every ~25-60 seconds
 - **Transfer**: Shows data sent/received
 - **Status**: Active
+  
+![Initial State: VPN Disconnected](./media/image1.png)
+![Connection Successful: VPN Active & LAN Access Verified](./media/image2.png)
 
 ### Server-Side Verification
 
