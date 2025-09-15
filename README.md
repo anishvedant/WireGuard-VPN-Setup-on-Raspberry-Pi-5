@@ -1,6 +1,6 @@
 # 🔒 WireGuard VPN Setup on Raspberry Pi 5 with Pi-hole Integration
 
-A complete guide to setting up a secure VPN server on Raspberry Pi 5, allowing remote access to your home network with ad-blocking via Pi-hole (Pi-hole is already configured [here](https://github.com/anishvedant/PiHole-Ultimate-DNS-Firewall)).
+A complete guide to setting up a secure VPN server on Raspberry Pi 5, allowing remote access to your home network with ad-blocking via Pi-hole. (Pi-hole is already configured [here](https://github.com/anishvedant/PiHole-Ultimate-DNS-Firewall))
 
 ## 📋 Table of Contents
 - [Project Overview](#-project-overview)
